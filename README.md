@@ -19,8 +19,8 @@
     - [General](#General-exploration-and-cleaning)
   - [Second phase](#Second-phase-Data-transformation)
   - [Third phase](#Third-phase-Visualization)
-  - [Fourth phase](#Fourth-phase-A\B-testing)
-  - [Fifth phase](#Fifrth-phase-DataBase)
+  - [Fourth phase](#Fourth-phase-A/B-testing)
+  - [Fifth phase](#Fifth-phase-DataBase)
   - [Sixth phase](#Sixth-phase-ETL)
 - [Author](#author)
 
@@ -95,7 +95,7 @@ If you do not have these libraries, you can install them using *pip install*
 
 Study of six real-world questions about the data and their representation through graphs.
 
-### Fourth phase: DataBase
+### Fourth phase: A/B testing
 
 Statistical hypothesis testing to determine whether job satisfaction levels have a significant effect on employee turnover. This involved dividing employees into two groups based on satisfaction (e.g., high vs. low), comparing their turnover rates using A/B testing methods, and analyzing the effect size to assess the magnitude of the relationship.
 
