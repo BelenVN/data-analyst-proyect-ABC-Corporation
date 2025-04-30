@@ -17,7 +17,7 @@
   - [First phase](#first-phase-etl-extraction-and-loading-data--eda-exploratory-data-analysis)
     - [Importations](#Importing-libraries-and-loading-data)
     - [General](#General-exploration-and-cleaning)
-  - [Second phase](#Second-phase-ETL-Data-Transformation)
+  - [Second phase](#Second-phase-etl-data-transformation)
   - [Third phase](#Third-phase-Visualization)
   - [Fourth phase](#Fourth-phase-AB-testing)
   - [Fifth phase](#Fifth-phase-DataBase)
