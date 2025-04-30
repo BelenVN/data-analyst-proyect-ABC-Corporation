@@ -1,5 +1,5 @@
-<h1 align="center" id="title"> Data Analyst Project: Employee Dataset Analysis</h1> 
-<h2 align="center" id="title"> Work on a dataset of ABC Corporation employees. </h2> 
+<h1 align="center" id="title"> Talent Optimisation </h1> 
+<h2 align="center" id="title"> Data Analyst Project: Employee Dataset Analysis for Job Satisfaction and Retention </h2> 
 
 
 <p align="center">
