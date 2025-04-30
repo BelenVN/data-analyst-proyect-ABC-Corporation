@@ -14,14 +14,14 @@
 - [Requirements](#Requirements)
 - [The process](#the-process)
   - [Built with](#built-with)
-  - [First phase](#First-phase-deep-data-exploration)
+  - [First phase](#first-phase-etl-extraction-and-loading-data--eda-exploratory-data-analysis)
     - [Importations](#Importing-libraries-and-loading-data)
     - [General](#General-exploration-and-cleaning)
-  - [Second phase](#Second-phase-Data-transformation)
+  - [Second phase](#Second-phase-ETL-Data-Transformation)
   - [Third phase](#Third-phase-Visualization)
   - [Fourth phase](#Fourth-phase-AB-testing)
   - [Fifth phase](#Fifth-phase-DataBase)
-  - [Sixth phase](#Sixth-phase-ETL)
+  - [Sixth phase](#Sixth-phase-ETL-Loading)
 - [Authors](#authors)
 
 ## INTRODUCTION
@@ -68,7 +68,7 @@ If you do not have these libraries, you can install them using *pip install*
 *   MySQL Workbench
 
 
-### First phase: deep data exploration
+### First phase: ETL (Extraction and Loading Data) & EDA (Exploratory Data Analysis)
 
 #### Importing libraries and loading data:
 
@@ -84,7 +84,7 @@ If you do not have these libraries, you can install them using *pip install*
 *   Initial exploration of the data to identify potential problems (null values, duplicate values, outliers, missing data, etc.).
 *   DataFrame joining
 
-### Second phase: data transformation
+### Second phase: ETL - Data Transformation
 
 *   Verification of data consistency and correctness.
 *   Removing unnecesary columns
@@ -103,9 +103,9 @@ Statistical hypothesis testing to determine whether job satisfaction levels have
 
 Creation of a DB (with clean DF) in MySQL Workbench, editing tables and their corresponding relations/restrictions. Lastly, creation of the DB diagram.
 
-### Sixth phase: ETL
+### Sixth phase: ETL - Loading
 
-Data extraction, transformation and loading (ETL): -automation of the data insertion into the DB and the information transformation process to ensure that information is updated and inserted in a consistent manner.
+Data extraction, transformation and loading (ETL): automation of the data insertion into the DB and the information transformation process to ensure that information is updated and inserted in a consistent manner.
 
 
 ## Authors
