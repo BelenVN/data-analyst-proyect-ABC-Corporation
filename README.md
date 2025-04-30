@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="[https://img.freepik.com/vector-premium/dispositivos-tecnologia-kawaii_24911-49452.jpg?w=740](https://plus.unsplash.com/premium_photo-1661878265739-da90bc1af051?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fGRhdGElMjBhbmFseXNpc3xlbnwwfHwwfHx8MA%3D%3D)" alt="project-image">
+  <img src="https://plus.unsplash.com/premium_photo-1661878265739-da90bc1af051?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fGRhdGElMjBhbmFseXNpc3xlbnwwfHwwfHx8MA%3D%3D" alt="project-image">
 </p>
 
 
