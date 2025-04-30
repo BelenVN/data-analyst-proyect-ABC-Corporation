@@ -19,10 +19,10 @@
     - [General](#General-exploration-and-cleaning)
   - [Second phase](#Second-phase-Data-transformation)
   - [Third phase](#Third-phase-Visualization)
-  - [Fourth phase](#Fourth-phase-A/B-testing)
+  - [Fourth phase](#Fourth-phase-AB-testing)
   - [Fifth phase](#Fifth-phase-DataBase)
   - [Sixth phase](#Sixth-phase-ETL)
-- [Author](#author)
+- [Authors](#authors)
 
 ## INTRODUCTION
 
@@ -108,9 +108,13 @@ Creation of a DB (with clean DF) in MySQL Workbench, editing tables and their co
 Data extraction, transformation and loading (ETL): -automation of the data insertion into the DB and the information transformation process to ensure that information is updated and inserted in a consistent manner.
 
 
-## Author
+## Authors
 
-Made with 💜 by [Belén V N (https://github.com/BelenVN), Gloria L C (https://github.com/GloriaLopezChinarro), Viviana V R (https://github.com/Viviana1988) y Cristina R H (https://github.com/cristinarull14)]
+Made with 💜 by:
+[Belén V N](https://github.com/BelenVN): Scrum Master, Lead Engineer, Data Analyst & BBDD Engineer.
+[Cristina R H](https://github.com/cristinarull14): Data Engineer (Support), A/B Testing Specialist & Presentation Designer
+[Viviana V R](https://github.com/Viviana1988): BBDD Engineer, Visualization Specialist & Presentation Designer.
+[Gloria L C](https://github.com/GloriaLopezChinarro): ETL Developer (Junior Support) & Visualization (Support).
 
 
 
