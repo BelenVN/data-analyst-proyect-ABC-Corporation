@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://img.freepik.com/vector-premium/dispositivos-tecnologia-kawaii_24911-49452.jpg?w=740" alt="project-image">
+  <img src="[https://img.freepik.com/vector-premium/dispositivos-tecnologia-kawaii_24911-49452.jpg?w=740](https://plus.unsplash.com/premium_photo-1661878265739-da90bc1af051?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fGRhdGElMjBhbmFseXNpc3xlbnwwfHwwfHx8MA%3D%3D)" alt="project-image">
 </p>
 
 
@@ -18,9 +18,10 @@
     - [Importations](#Importing-libraries-and-loading-data)
     - [General](#General-exploration-and-cleaning)
   - [Second phase](#Second-phase-Data-transformation)
-  - [Third phase](#Third-phase-visualization)
-  - [Fourth phase](#Fourth-phase-DataBase)
-  - [Fifth phase](#Fifth-phase-ETL)
+  - [Third phase](#Third-phase-Visualization)
+  - [Fourth phase](#Fourth-phase-A\B-testing)
+  - [Fifth phase](#Fifrth-phase-DataBase)
+  - [Sixth phase](#Sixth-phase-ETL)
 - [Author](#author)
 
 ## INTRODUCTION
@@ -96,9 +97,13 @@ Study of six real-world questions about the data and their representation throug
 
 ### Fourth phase: DataBase
 
+Statistical hypothesis testing to determine whether job satisfaction levels have a significant effect on employee turnover. This involved dividing employees into two groups based on satisfaction (e.g., high vs. low), comparing their turnover rates using A/B testing methods, and analyzing the effect size to assess the magnitude of the relationship.
+
+### Fifth phase: DataBase
+
 Creation of a DB (with clean DF) in MySQL Workbench, editing tables and their corresponding relations/restrictions. Lastly, creation of the DB diagram.
 
-### Fifth phase: ETL
+### Sixth phase: ETL
 
 Data extraction, transformation and loading (ETL): -automation of the data insertion into the DB and the information transformation process to ensure that information is updated and inserted in a consistent manner.
 
