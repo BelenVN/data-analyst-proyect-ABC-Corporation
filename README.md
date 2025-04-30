@@ -111,6 +111,7 @@ Data extraction, transformation and loading (ETL): -automation of the data inser
 ## Authors
 
 Made with 💜 by:
+
 [Belén V N](https://github.com/BelenVN): Scrum Master, Lead Engineer, Data Analyst & BBDD Engineer.
 
 [Cristina R H](https://github.com/cristinarull14): Data Engineer (Support), A/B Testing Specialist & Presentation Designer
