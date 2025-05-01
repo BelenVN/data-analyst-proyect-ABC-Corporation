@@ -1,9 +1,9 @@
-<h1 align="center" id="title"> Data Analyst Project: Employee Dataset Analysis</h1> 
-<h2 align="center" id="title"> Work on a dataset of ABC Corporation employees. </h2> 
+<h1 align="center" id="title"> Talent Optimisation </h1> 
+<h2 align="center" id="title"> Data Analyst Project: Employee Dataset Analysis for Job Satisfaction and Retention </h2> 
 
 
 <p align="center">
-  <img src="https://img.freepik.com/vector-premium/dispositivos-tecnologia-kawaii_24911-49452.jpg?w=740" alt="project-image">
+  <img src="https://plus.unsplash.com/premium_photo-1661878265739-da90bc1af051?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDV8fGRhdGElMjBhbmFseXNpc3xlbnwwfHwwfHx8MA%3D%3D" alt="project-image">
 </p>
 
 
@@ -14,14 +14,15 @@
 - [Requirements](#Requirements)
 - [The process](#the-process)
   - [Built with](#built-with)
-  - [First phase](#First-phase-deep-data-exploration)
+  - [First phase](#first-phase-etl-extraction-and-loading-data--eda-exploratory-data-analysis)
     - [Importations](#Importing-libraries-and-loading-data)
     - [General](#General-exploration-and-cleaning)
-  - [Second phase](#Second-phase-Data-transformation)
-  - [Third phase](#Third-phase-visualization)
-  - [Fourth phase](#Fourth-phase-DataBase)
-  - [Fifth phase](#Fifth-phase-ETL)
-- [Author](#author)
+  - [Second phase](#Second-phase-etl---data-transformation)
+  - [Third phase](#Third-phase-Visualization)
+  - [Fourth phase](#Fourth-phase-AB-testing)
+  - [Fifth phase](#Fifth-phase-DataBase)
+  - [Sixth phase](#Sixth-phase-ETL---Loading)
+- [Authors](#authors)
 
 ## INTRODUCTION
 
@@ -67,7 +68,7 @@ If you do not have these libraries, you can install them using *pip install*
 *   MySQL Workbench
 
 
-### First phase: deep data exploration
+### First phase: ETL (Extraction and Loading Data) & EDA (Exploratory Data Analysis)
 
 #### Importing libraries and loading data:
 
@@ -83,7 +84,7 @@ If you do not have these libraries, you can install them using *pip install*
 *   Initial exploration of the data to identify potential problems (null values, duplicate values, outliers, missing data, etc.).
 *   DataFrame joining
 
-### Second phase: data transformation
+### Second phase: ETL - Data Transformation
 
 *   Verification of data consistency and correctness.
 *   Removing unnecesary columns
@@ -94,18 +95,30 @@ If you do not have these libraries, you can install them using *pip install*
 
 Study of six real-world questions about the data and their representation through graphs.
 
-### Fourth phase: DataBase
+### Fourth phase: A/B testing
+
+Statistical hypothesis testing to assess whether job satisfaction levels significantly influence employee turnover. The analysis included A/B testing by dividing employees into satisfaction-based groups and calculating the effect size of the difference in turnover rates.
+
+### Fifth phase: DataBase
 
 Creation of a DB (with clean DF) in MySQL Workbench, editing tables and their corresponding relations/restrictions. Lastly, creation of the DB diagram.
 
-### Fifth phase: ETL
+### Sixth phase: ETL - Loading
 
-Data extraction, transformation and loading (ETL): -automation of the data insertion into the DB and the information transformation process to ensure that information is updated and inserted in a consistent manner.
+Data extraction, transformation and loading (ETL): automation of the data insertion into the DB and the information transformation process to ensure that information is updated and inserted in a consistent manner.
 
 
-## Author
+## Authors
 
-Made with 💜 by [Belén V N (https://github.com/BelenVN), Gloria L C (https://github.com/GloriaLopezChinarro), Viviana V R (https://github.com/Viviana1988) y Cristina R H (https://github.com/cristinarull14)]
+Made with 💜 by:
+
+[Belén V N](https://github.com/BelenVN): Scrum Master, Lead Engineer, Data Analyst & BBDD Engineer.
+
+[Cristina R H](https://github.com/cristinarull14): Data Engineer (Support), A/B Testing Specialist & Presentation Designer
+
+[Viviana V R](https://github.com/Viviana1988): BBDD Engineer, Visualization Specialist & Presentation Designer.
+
+[Gloria L C](https://github.com/GloriaLopezChinarro): ETL Developer (Junior Support) & Visualization (Support).
 
 
 
