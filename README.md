@@ -97,7 +97,7 @@ Study of six real-world questions about the data and their representation throug
 
 ### Fourth phase: A/B testing
 
-Statistical hypothesis testing to determine whether job satisfaction levels have a significant effect on employee turnover. This involved dividing employees into two groups based on satisfaction (e.g., high vs. low), comparing their turnover rates using A/B testing methods, and analyzing the effect size to assess the magnitude of the relationship.
+Statistical hypothesis testing to assess whether job satisfaction levels significantly influence employee turnover. The analysis included A/B testing by dividing employees into satisfaction-based groups and calculating the effect size of the difference in turnover rates.
 
 ### Fifth phase: DataBase
 
